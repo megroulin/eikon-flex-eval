@@ -49,8 +49,21 @@
 }
 
 /* 8. exercice-8 */
+.exercice-8 .container {
+  display: flex;
+  flex-direction: row;
+}
 
 /* 9. exercice-9 */
+.exercice-9 .container {
+  display: flex;
+  columns: 2;
+}
 
 /* 10. exercice-10 */
+.exercice-10 .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
 
