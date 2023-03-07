@@ -7,6 +7,13 @@
 }
 
 /* 2. exercice-2 */
+.exercice-2 .container {
+  display: flex;
+  flex-flow: column-reverse wrap;
+  align-items: center;
+  justify-content: center;
+
+}
 
 /* 3. exercice-3 */
 
