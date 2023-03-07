@@ -12,10 +12,13 @@
   flex-flow: column-reverse wrap;
   align-items: center;
   justify-content: center;
-
 }
 
 /* 3. exercice-3 */
+.exercice-3 .container{
+  order: -1;
+  align-self: flex-start;
+}
 
 /* 4. exercice-4 */
 
