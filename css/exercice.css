@@ -30,12 +30,23 @@
   display: flex;
   flex-flow: row wrap;
   align-content: space-between;
-
+  justify-content: center;
 }
 
 /* 6. exercice-6 */
+.exercice-6 .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
 
 /* 7. exercice-7 */
+.exercice-7 .container {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
 
 /* 8. exercice-8 */
 
