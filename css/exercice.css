@@ -21,8 +21,17 @@
 }
 
 /* 4. exercice-4 */
+.exercice-4 .element-blue {
+  order: 1;
+}
 
 /* 5. exercice-5 */
+.exercice-5 .container {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-between;
+
+}
 
 /* 6. exercice-6 */
 
