@@ -1,4 +1,10 @@
 /* 1. exercice-1 */
+.exercice-1 .container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-around;
+}
 
 /* 2. exercice-2 */
 
